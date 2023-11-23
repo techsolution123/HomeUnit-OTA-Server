@@ -1,0 +1,19 @@
+{
+  "name": "ota_server",
+  "version": "1.0.0",
+  "description": "Server to test HTTP server OTA update",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "OTA",
+    "ESP32",
+    "server"
+  ],
+  "author": "Bryant",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.18.2"
+  }
+}
